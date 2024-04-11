@@ -1,0 +1,10 @@
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe.config
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.exe
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\bin\Debug\CountDownTimer.pdb
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csproj.AssemblyReference.cache
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.CountDownTimer.resources
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.Properties.Resources.resources
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csproj.GenerateResource.cache
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.csproj.CoreCompileInputs.cache
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.exe
+C:\Users\mjavih\Desktop\Codes\csharp project\CountDownTimer\CountDownTimer\obj\Debug\CountDownTimer.pdb
